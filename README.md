@@ -1,6 +1,4 @@
-# Adhoom
-Repo to design my profile
-<h1 align="center">Junior Embedded Software Engineer</h1>
+<h1 align="center">Embedded Systems Engineer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
