@@ -14,6 +14,7 @@
 ---
 
  About ME
+
 <div align="center">
   <hr style="height:3px;border:none;background: linear-gradient(270deg, #4facfe, #00f2fe, #4facfe); background-size: 600% 600%; animation: gradientMove 5s ease infinite; width: 60%;">
 </div>
