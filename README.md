@@ -11,7 +11,6 @@
 </p>
 
 
----
 
  About ME
 
@@ -19,12 +18,8 @@
   <hr style="height:3px;border:none;background: linear-gradient(270deg, #4facfe, #00f2fe, #4facfe); background-size: 600% 600%; animation: gradientMove 5s ease infinite; width: 60%;">
 </div>
 
-👋 Hi there! I'm a passionate **Junior Embedded Software Engineer** with a keen interest in developing efficient and innovative solutions for embedded systems. I have a decent knowledge in embedded systems through my experiences by being an Embedded Software Instructor and Robotics Instructor at training organizations like **Smartinn, ITI, Orange Digital Center**, and **AMIT**.
-
-- ✔️ I’ve worked on various **Embedded Systems Projects** (Arduino, AVR, ARM & Automotive RTOS)
-- ✔️ I’ve supervised on (2 mini + 2 major) projects
-- ✔️ I’ve taught more than 40+ students: **University Students** and **School Students**
-- ✔️ I'm currently learning **DevOps tools**, while doing and supervising embedded systems projects
+👋 Hi there! I'm a passionate Embedded Systems Engineer with a keen interest in developing efficient and innovative solutions for embedded systems and IoT. I’ve been building my skills through hands-on projects, courses, and constant self-learning.
+- ✔️ I’ve worked on various **Embedded Systems Projects** (Esp32, AVR, ARM & Automotive RTOS)
 - ✔️ I'm looking to collaborate with highly respected companies in the **embedded systems field**
 
 ---
