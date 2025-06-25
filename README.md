@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 🎓 I'm an **Electronics and Communications Engineering** student with a strong interest in **Embedded Systems**, **IoT**, and **Automotive Technologies**.  
 🚀 I'm eager to apply my technical knowledge and hands-on experience in real-world projects, contribute to innovative solutions, and grow within a dynamic and forward-thinking organization.
