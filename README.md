@@ -1,57 +1,41 @@
-<h1 align="center">Hey there, I'm Adham 👋</h1>
-<h3 align="center">Electronics and Communications Engineering student</h3>
+<h1 align="center">Junior Embedded Software Engineer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhoom&label=Profile%20views&color=0e75b6&style=flat" alt="Adhoom" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 ---
 
-## About Me
+## 👋 About ME
 
-🎓 I'm an **Electronics and Communications Engineering** student with a strong interest in **Embedded Systems**, **IoT**, and **Automotive Technologies**.  
-🚀 I'm eager to apply my technical knowledge and hands-on experience in real-world projects, contribute to innovative solutions, and grow within a dynamic and forward-thinking organization.
+Hi there! I'm a passionate **Junior Embedded Software Engineer** with a keen interest in developing efficient and innovative solutions for embedded systems. I have a decent knowledge in embedded systems through my experiences by being an Embedded Software Instructor and Robotics Instructor at training organizations like **Smartinn, ITI, Orange Digital Center**, and **AMIT**.
+
+- ✔️ I’ve worked on various **Embedded Systems Projects** (Arduino, AVR, ARM & Automotive RTOS)
+- ✔️ I’ve supervised on (2 mini + 2 major) projects
+- ✔️ I’ve taught more than 40+ students: **University Students** and **School Students**
+- ✔️ I'm currently learning **DevOps tools**, while doing and supervising embedded systems projects
+- ✔️ I'm looking to collaborate with highly respected companies in the **embedded systems field**
 
 ---
 
-## 🛠️ Tools & Technologies I Use
-
-### 💻 Programming Languages & OS
+## 🛠️ Embedded Systems Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
-</p>
-
-### 🧰 Tools & IDEs
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil-blue?logo=keil&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-00adef?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atmel Studio-000?style=for-the-badge&logo=atmel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-### 🔧 Version Control
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
----
 
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zuadham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Adhoom21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:adhamuhammed21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/zuadham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="github.com/Adhoom21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
